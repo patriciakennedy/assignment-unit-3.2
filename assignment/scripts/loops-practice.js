@@ -90,11 +90,6 @@ for (let star of stars) {
 }
 
 
-
-
-
-/* Below tasks completed - Dec.10, 2024 - PK*/
-
 // 3. While loops  
 console.log('---- 3. While loop ----');
 
@@ -108,6 +103,7 @@ while (index < stars.length) {
   index++;
 }
 
+/* Below tasks completed - Dec.10, 2024 - PK*/
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
